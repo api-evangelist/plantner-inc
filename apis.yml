@@ -1,5 +1,5 @@
 aid: plantner-inc
-name: Plantner Inc.
+name: Plantner
 description: >-
   Plantner Inc. (PLANTNER) is a South Korean biotechnology company specializing in the
   extraction and manufacturing of alginic acid, a biodegradable marine-derived biomaterial.
@@ -69,3 +69,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-legal-name: Plantner Inc.
